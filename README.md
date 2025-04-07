@@ -1,7 +1,9 @@
-# 💖 To: Stephanie  
+# 💌 To: Stephanie  
 *From: Someone who loves you deeply*
 
-![floating hearts](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Floating Hearts">
+</p>
 
 ---
 
@@ -28,12 +30,13 @@ Forever yours,
 
 ---
 
-![love note](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4eVq/giphy.gif" width="250" alt="Love Envelope">
+</p>
 
 🌹 [Click here to open your surprise 💌](https://yourusername.github.io/love-letter/)
 
 ---
 
-![hearts explosion](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
-
-Made with ❤️ using HTML, CSS & JavaScript.
+<p align="center">
+  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="250" alt="Heart Explosion
